@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ede Rojin DELİBAŞ</h1>
 <h3 align="center">Leveling Up My Data Skills: Coding and GitHub Adventures</h3>
 
-<p align="center"><img src ="https://mastermessaging.com/wp-content/uploads/2019/06/Hormones-Affect-Our-Brains-Health-Science-Data-Research-Ovary-Man-Repeller-Feature-GIF.gif"></p>
+<p align="center"><img src ="https://mastermessaging.com/wp-content/uploads/2019/06/Hormones-Affect-Our-Brains-Health-Science-Data-Research-Ovary-Man-Repeller-Feature-GIF.gif" width="500" height="400"></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ede-rojin-delibas&label=Profile%20views&color=0e75b6&style=flat" alt="ede-rojin-delibas" /> </p>
 
